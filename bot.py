@@ -7,9 +7,9 @@ import aiohttp
 import asyncio
 
 API_SMM_URL = "https://painelsmm.com/api/v2/"
-API_SMM_KEY = "SEU_TOKEN_SMMOFICIAL_AQUI"  # substitua pelo seu token SMMOFICIAL
+API_SMM_KEY = "1c918..."  # substitua pelo seu token SMMOFICIAL
 MERCADO_PAGO_ACCESS_TOKEN = "APP_USR-767b6330-80f6-465c-b830-e0bb3..."  # seu token Mercado Pago
-BOT_TOKEN = "SEU_TOKEN_TELEGRAM_AQUI"  # seu token bot Telegram
+BOT_TOKEN = "8065012229:AAGB..."  # seu token bot Telegram
 
 markup_lucro = 10.0
 
